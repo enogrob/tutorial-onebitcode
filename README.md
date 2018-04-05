@@ -18,4 +18,4 @@ Learn everything you need to about the subject of this `Tutorial` project.
 Section 1
 Dominando o uso de Jobs no Rails
 * [x][Dominando o uso de Jobs no Rails - Parte 1](https://www.youtube.com/watch?v=p5eJ8FcAWxU)
-* [ ][Dominando o uso de Jobs no Rails - Parte 2](https://www.youtube.com/watch?v=bu7A0hYy2No&t=6s)
+* [x][Dominando o uso de Jobs no Rails - Parte 2](https://www.youtube.com/watch?v=bu7A0hYy2No&t=6s)
